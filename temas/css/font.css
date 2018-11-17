@@ -1,0 +1,28 @@
+/* font-family: "PTSansRegular"; */
+@font-face {
+    font-family: "PT Sans";
+    src: url("../fonts/PTSansRegular-ext.woff") format("woff");
+}
+/* font-family: "PTSansItalic"; */
+@font-face {
+    font-family: "PT Sans";
+    src: url("../fonts/PTSansItalic.woff") format("woff");
+    font-style: italic;
+}
+/* font-family: "PTSansBold"; */
+@font-face {
+    font-family: "PT Sans";
+    src: url("../fonts/PTSans-Bold-ext.woff") format("woff");
+    font-weight: bold;
+}
+
+/* font-family: "PTSansBold"; */
+@font-face {
+    font-family: "BadScript";
+    src: url("../fonts/BadScriptRegular.eot");
+    src: url("../fonts/BadScriptRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/BadScriptRegular.woff") format("woff"),
+    url("../fonts//BadScriptRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
